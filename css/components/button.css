@@ -1,0 +1,38 @@
+/* Your button CSS file */
+
+.normal {
+  line-height: normal;
+  letter-spacing: normal;
+}
+
+.btn-medium {
+  padding: 13px 25px;
+  border: 1px solid #999999;
+  border-radius: 25px;
+  color: #999999;
+  opacity: 0.6;
+  font-weight: 300;
+}
+
+.btn-medium:hover, .btn-medium:active{
+  color: #999999;
+  cursor: pointer;
+  opacity: 1;
+}
+
+.btn-treehouse{
+  padding: 13px 25px;
+  background-color:#6ad58b;
+  color: #fff;
+  border-radius: 4px;
+  font-weight: 600;
+}
+
+.btn-yours{
+ padding:13px 25px;
+ color: #fff;
+ border-radius: 20px 20px 2px 2px;
+ background-color: #FF7D7D;
+ font-size: 20px;
+ font-weight: 600;
+}
